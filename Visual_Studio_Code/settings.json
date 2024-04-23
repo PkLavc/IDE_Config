@@ -1,0 +1,11 @@
+{
+    "workbench.colorTheme": "Default Dark Modern",
+    "explorer.compactFolders": false,
+    "workbench.iconTheme": "material-icon-theme",
+    "code-runner.executorMap": {
+        "python": "clear ; python -u",
+        "java": "cd $dir && clear && javac $fileName && java $fileNameWithoutExt"
+    },
+    "code-runner.runInTerminal": true,
+    "code-runner.ignoreSelection": true
+}

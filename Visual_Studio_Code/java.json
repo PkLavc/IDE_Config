@@ -1,0 +1,20 @@
+{
+    "Main method with args": {
+        "prefix": "main",
+        "body": [
+            "public static void main(String[] args) {",
+            "\t$0",
+            "}"
+        ],
+        "description": "Generate main method with args"
+    },
+    "Main method": {
+        "prefix": "main",
+        "body": [
+            "public static void main(String[] args) {",
+            "\t$0",
+            "}"
+        ],
+        "description": "Generate main method"
+    }
+}
