@@ -7,5 +7,21 @@
         "java": "cd $dir && clear && javac $fileName && java $fileNameWithoutExt"
     },
     "code-runner.runInTerminal": true,
-    "code-runner.ignoreSelection": true
+    "code-runner.ignoreSelection": true,
+    "redhat.telemetry.enabled": true,
+    "cmake.options.advanced": {
+        "build": {
+            "statusBarVisibility": "inherit",
+            "inheritDefault": "visible"
+        },
+        "launch": {
+            "statusBarVisibility": "inherit",
+            "inheritDefault": "visible"
+        },
+        "debug": {
+            "statusBarVisibility": "inherit",
+            "inheritDefault": "visible"
+        }
+    },
+    "terminal.integrated.wordWrap": true
 }
