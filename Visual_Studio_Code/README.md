@@ -1,7 +1,7 @@
 <!-- *************************************************java.json**************************************************** -->
 # java.json 
 
-Adiciona automaticamente, via snippets, o 'public static void main(String[] args) {}' ao digitar 'main' e pressionar Tab.
+Adiciona automaticamente, via snippets, um método `main` com um parâmetro `String[] args` ao digitar 'main' e pressionar Tab.
 
 ## Como configurar snippets no VS Code
 
