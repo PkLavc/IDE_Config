@@ -13,7 +13,7 @@ Siga os passos abaixo para adicionar ou modificar os snippets de Java no Visual 
 
 <!-- ************************************************** Bar ***************************************************** -->
 
-  <img src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/Rainbow.gif" width="100%">
+  <img src="https://github.com/PkLavc/PkLavc/blob/94f67aca0f96f0e9cef748c2c27877c02586f77d/resources/Rainbow.gif" width="100%">
   
 <!-- *************************************************settings.json**************************************************** -->
 # settings.json
@@ -64,7 +64,7 @@ Para abrir o arquivo `settings.json` no Visual Studio Code:
     
 <!-- ************************************************** Bar ***************************************************** -->
 
-  <img src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/Rainbow.gif" width="100%">
+  <img src="https://github.com/PkLavc/PkLavc/blob/94f67aca0f96f0e9cef748c2c27877c02586f77d/resources/Rainbow.gif" width="100%">
   
 <!-- ****************************************************************************************************************** -->
 
